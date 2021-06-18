@@ -441,7 +441,11 @@ footer.footer .move-up {
 	top: 50%;
 }
 
-footer.footer .move-u span {
+.move-up span .fas {
+	color: var(--white);
+}
+
+footer.footer .move-up span {
 	color: white;
 }
 
