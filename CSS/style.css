@@ -161,6 +161,7 @@ main .site-title .site-background {
 	padding-top: 10rem;
 	text-align: center;
 	color: var(--white);
+	overflow: hidden;
 }
 
 main .site-title h1,
@@ -441,7 +442,7 @@ footer.footer .move-up {
 }
 
 footer.footer .move-u span {
-	color: var(--midnight);
+	color: white;
 }
 
 footer.footer .move-up span:hover {
@@ -449,7 +450,6 @@ footer.footer .move-up span:hover {
 	cursor: pointer;
 }
 /*END OF FOOTER */
-
 
 /* viewport less than 750px */
 
